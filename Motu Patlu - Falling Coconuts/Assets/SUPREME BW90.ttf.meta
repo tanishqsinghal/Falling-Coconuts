@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0623c4144f61f024c84f5d2510806e9d
+timeCreated: 1518501025
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SUPREME BW90
+  fontNames:
+  - SUPREME BW90
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
